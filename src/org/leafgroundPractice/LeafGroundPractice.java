@@ -9,6 +9,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 public class LeafGroundPractice {
 	
+<<<<<<< HEAD
 	public void Addition() {
 		System.out.println("addition");
 
@@ -19,6 +20,10 @@ public class LeafGroundPractice {
 	}
 	public void modification() {
 		System.out.println("modified");
+=======
+	private void Multi() {
+		System.out.println("Multi");
+>>>>>>> af95bb2054ac921165d5ee171513dc1e4a3264d1
 
 	}
 
