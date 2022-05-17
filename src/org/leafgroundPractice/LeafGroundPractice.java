@@ -8,6 +8,19 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 public class LeafGroundPractice {
+	
+	public void Addition() {
+		System.out.println("addition");
+
+	}
+	public void percentage() {
+		System.out.println("percentage");
+
+	}
+	public void modification() {
+		System.out.println("modified");
+
+	}
 
 	public static void main(String[] args) throws InterruptedException {
 
