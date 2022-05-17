@@ -8,6 +8,11 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 public class LeafGroundPractice {
+	
+	private void Multi() {
+		System.out.println("Multi");
+
+	}
 
 	public static void main(String[] args) throws InterruptedException {
 
